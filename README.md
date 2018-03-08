@@ -5,6 +5,8 @@ Projeto desenvolvido durante o workshop online e gratuito de desenvolvimento And
 
 ***Workshop Online e Gratuito: [https://workshop.androidaccelerate.com.br/](https://workshop.androidaccelerate.com.br/)***
 
+<img src="https://user-images.githubusercontent.com/876772/37172817-a9067cc2-22f0-11e8-8116-bcc8c9ba13c1.png" width="250"><img src="https://user-images.githubusercontent.com/876772/37172818-a92bb488-22f0-11e8-811f-5da1ad67b0bf.png" width="250"><img src="https://user-images.githubusercontent.com/876772/37172819-a94d0084-22f0-11e8-8d31-82e60ba5cade.png" width="250">
+
 
 Pré-requisitos
 --------------
