@@ -3,7 +3,7 @@ ReceitasApp
 
 Projeto desenvolvido durante o workshop online e gratuito de desenvolvimento Android profisisonal.
 
-***Workshop Online e Gratuito: ([https://workshop.androidaccelerate.com.br/](https://workshop.androidaccelerate.com.br/))***
+***Workshop Online e Gratuito: [https://workshop.androidaccelerate.com.br/](https://workshop.androidaccelerate.com.br/)***
 
 
 Pré-requisitos
